@@ -27,8 +27,8 @@ For Windows users, open a command prompt and type: (**make sure you have added P
 `pip install matplotlib`
 
 
-## RUNNING THE PROGRAM
------------------------------------
+## Running the program
+
 To run the program, either:
 
 1. In root folder, open a command prompt and run:
@@ -37,19 +37,10 @@ To run the program, either:
 
 2. Double-click on menu.py in root folder.
 
------------------------------------
-## TESTING
------------------------------------
+## Testing
+
 The modules in this program have their own testing part (every module except for menu.py).
 To run tests for each module individually, please use the steps from part 3 of README, except use name of the module
 instead of 'menu.py'.
 
 The test results will be displayed in the console.
-
------------------------------------
-## AUTHOR
------------------------------------
-Corcimaru Calin
-Student ID: F011321
-
-
