@@ -1,0 +1,42 @@
+1|Autobiography|A Promised Land|B. Obama|18/11/2016|0|
+2|Fiction|Writers & Lovers: A Novel|Lily King|22/09/2015|0|
+3|Children|Code Name Bananas|David Walliams|27/10/2015|0|
+4|History|Hamnet|Maggie O'Farrell|13/04/2013|coai|
+5|Children|The Ickabog|J.K. Rowling|13/04/2017|0|
+6|Satire|We Do Lockdown|Miriam Elia|25/06/2012|0|
+7|Fiction|Troy|Stephen Fry|12/01/2002|gera|
+8|Thriller|The Guest List|Lucy Foley|16/09/2017|0|
+9|Cookbook|Cook,Eat,Repeat|Nigella Lawson|31/07/2000|0|
+10|Sci-Fi|Dune|Frank Herbert|13/12/2001|0|
+11|Fantasy|Rhythm of War|Brandon Sanderson|12/12/2020|0|
+12|Fantasy|Words of Radiance|Brandon Sanderson|31/08/2014|0|
+13|Fantasy|The Way of Kings|Brandon Sanderson|31/09/2011|0|
+14|Fantasy|Oathbringer|Brandon Sanderson|15/11/2017|gera|
+15|Fantasy|The Name of the Wind|Patrick Rothfuss|28/03/2007|0|
+16|Fantasy|The Wise Man's Fear|Patrick Rothfuss|02/03/2011|0|
+17|Sci-Fi|Ender's Game|Orson Scott Card|05/04/2019|0|
+18|Sci-Fi|1984|George Orwell|06/06/2018|ccor|
+19|Sci-Fi|Foundation|Isaac Asimov|01/02/2004|0|
+20|Sci-Fi|The Martian|Andy Weir|05/08/2014|0|
+21|Fiction|A Dance in Fire, v1|Waughin Jarth|12/11/2011|0|
+22|Fiction|A Dance in Fire, v2|Waughin Jarth|13/11/2011|coai|
+23|Bestiary|Ghouls and Alghouls|John of Brugge|09/09/2016|0|
+24|Guidebook|Advances in Lockpicking|Anonymous|14/11/2011|0|
+25|Biography|Ahzidal's Descent|Halund Greycloak|15/11/2011|0|
+26|History|Alduin is Real|Thromgar Iron-Head|16/11/2011|0|
+27|Travel|An Explorer's Guide to Skyrim|Marcius Carvain, Viscount Bruma|17/11/2011|0|
+28|Travel|An Explorer's Guide to Skyrim|Marcius Carvain, Viscount Bruma|17/11/2012|0|
+29|Travel|An Explorer's Guide to Skyrim|Marcius Carvain, Viscount Bruma|17/11/2013|0|
+30|Travel|An Explorer's Guide to Skyrim|Marcius Carvain, Viscount Bruma|17/11/2014|0|
+31|Sci-Fi|Dune|Frank Herbert|16/12/2001|0|
+32|Sci-Fi|Dune|Frank Herbert|23/12/2001|0|
+33|History|The Battle of Sancre Tor|Anonymous|12/12/2021|gera|
+34|Autobiography|Confessions of a Skooma-Eater|Tilse Sendas|14/08/2015|0|
+35|Religion|An Overview Of Gods and Worship In Tamriel|Brother Hetchfeld|21/02/2019|0|
+36|Guidebook|Troll Slaying|Finn|30/04/2018|0|
+37|Biography|Emhyr var Emreis: A Biography|Urcheon of Erlenwald|16/04/2019|0|
+38|Fiction|The Last Wish|Julian Alfred Pankratz|20/12/2020|0|
+39|Art|Tyromancy, or the Noble Art of Cheese Divination|Marcus T.K. Hodgson|10/12/2021|0|
+40|History|Skellige: Its History and Geography|Bran Tuirseach|08/08/2018|0|
+41|Travel|Skellige: A witcher's guide to the Isles|Professor Tsuigerberg|08/08/2017|0|
+42|Fantasy|The Slow Regard of Silent Things|Patrick Rothfuss|14/12/2021|0|
