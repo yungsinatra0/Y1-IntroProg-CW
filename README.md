@@ -11,7 +11,7 @@ This program was made for the Coursework part of the **'Introduction to Programm
 
 ## Getting started
 
-### Pre- requisites
+### Pre-requisites
 
 Make sure you have version_ 3.9 (or above) of Python and pip installed._
 For Windows users, you can install latest version of [Python](https://www.python.org/downloads/)
@@ -25,7 +25,6 @@ This program uses the _Matplotlib_ library. Please make sure you have it install
 For Windows users, open a command prompt and type: (**make sure you have added Python to your PATH variable!**)
 
 `pip install matplotlib`
-
 
 ## Running the program
 
