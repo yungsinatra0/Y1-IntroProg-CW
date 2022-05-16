@@ -1,0 +1,13 @@
+# Ignore folders
+
+.idea
+
+__pycache__
+
+Backups
+
+venv
+
+# Ignore files
+
+readme.txt
