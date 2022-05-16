@@ -1,39 +1,39 @@
------------------------------------
-# LIBRARY MANAGEMENT SYSTEM
------------------------------------
+
+# Library management system
+
 This is a simple library management system that allows a librarian to:
 1. Search for books, based on title, from the database.
 2. Withdraw books for members using a valid book and member ID.
 3. Return said books to the library using valid book ID.
 4. Finally, provide a recommendation list of books for users based on their Genre or Author preference.
 
-This program was made for the Coursework part of the 'Introduction to Programming' (21COA122) module in Loughborough University.
------------------------------------
-## GETTING STARTED
------------------------------------
-### Prerequisites
------------------------------------
-Make sure you have version 3.9 (or above) of Python and pip installed.
-For Windows users, you can install latest version of Python from https://www.python.org/downloads/
+This program was made for the Coursework part of the **'Introduction to Programming' (21COA122)** module in Loughborough University.
+
+## Getting started
+
+### Pre- requisites
+
+Make sure you have version_ 3.9 (or above) of Python and pip installed._
+For Windows users, you can install latest version of [Python](https://www.python.org/downloads/)
 
 (Make sure you tick the PATH option in the installer)
------------------------------------
+
 ### Additional modules
------------------------------------
-This program uses the Matplotlib library. Please make sure you have it installed before running the program.
 
-For Windows users, open a command prompt and type: (make sure you have added Python to your PATH variable!)
+This program uses the _Matplotlib_ library. Please make sure you have it installed before running the program.
 
-pip install matplotlib
+For Windows users, open a command prompt and type: (**make sure you have added Python to your PATH variable!**)
 
------------------------------------
+`pip install matplotlib`
+
+
 ## RUNNING THE PROGRAM
 -----------------------------------
 To run the program, either:
 
 1. In root folder, open a command prompt and run:
 
-python menu.py
+`python menu.py`
 
 2. Double-click on menu.py in root folder.
 
